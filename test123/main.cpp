@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"kdkd"<<endl;
+    cout<<"kdkd99999999999999999999999999"<<endl;
     return 0;
 }
